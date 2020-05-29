@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UFOKit",
+        "repositoryURL": "git@github.com:dcsch/ufokit.git",
+        "state": {
+          "branch": "master",
+          "revision": "50d232bd9657522260132b63adc8683e70ce35c0",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
